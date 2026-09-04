@@ -181,7 +181,7 @@ function Hero() {
               Speak English
               <br />
 
-              <span className="text-[#b58a45] dark:text-[#d4af6a]">
+              <span className="text-[#b58a45] dark:text-[#392f1a]">
                 with confidence.
               </span>
             </h1>
@@ -526,7 +526,7 @@ function Hero() {
             >
               <div className="relative overflow-hidden rounded-[1.25rem]">
                 <img
-                  src="https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1200&q=85"
+                  src='/trk-sir.png'
                   alt="Students learning together"
                   className="
                     h-[300px]
